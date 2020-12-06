@@ -1,0 +1,1 @@
+Pomohl mi Tomáš Kořínek takže je zde možnost podobnosti projektů
