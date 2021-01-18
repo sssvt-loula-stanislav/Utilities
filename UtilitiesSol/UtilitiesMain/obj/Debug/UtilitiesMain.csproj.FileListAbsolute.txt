@@ -1,0 +1,6 @@
+Y:\3.rocnik\PGR\Utilities\20210112_hodina - kopie\UtilitiesSol\UtilitiesMain\bin\Debug\UtilitiesMain.exe.config
+Y:\3.rocnik\PGR\Utilities\20210112_hodina - kopie\UtilitiesSol\UtilitiesMain\bin\Debug\UtilitiesMain.exe
+Y:\3.rocnik\PGR\Utilities\20210112_hodina - kopie\UtilitiesSol\UtilitiesMain\bin\Debug\UtilitiesMain.pdb
+Y:\3.rocnik\PGR\Utilities\20210112_hodina - kopie\UtilitiesSol\UtilitiesMain\obj\Debug\UtilitiesMain.csprojAssemblyReference.cache
+Y:\3.rocnik\PGR\Utilities\20210112_hodina - kopie\UtilitiesSol\UtilitiesMain\obj\Debug\UtilitiesMain.exe
+Y:\3.rocnik\PGR\Utilities\20210112_hodina - kopie\UtilitiesSol\UtilitiesMain\obj\Debug\UtilitiesMain.pdb

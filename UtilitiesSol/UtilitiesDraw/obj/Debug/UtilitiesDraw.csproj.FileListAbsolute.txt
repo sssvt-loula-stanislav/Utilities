@@ -1,0 +1,9 @@
+Y:\3.rocnik\PGR\Utilities\20210112_hodina\UtilitiesSol\UtilitiesDraw\bin\Debug\UtilitiesDraw.exe.config
+Y:\3.rocnik\PGR\Utilities\20210112_hodina\UtilitiesSol\UtilitiesDraw\bin\Debug\UtilitiesDraw.exe
+Y:\3.rocnik\PGR\Utilities\20210112_hodina\UtilitiesSol\UtilitiesDraw\bin\Debug\UtilitiesDraw.pdb
+Y:\3.rocnik\PGR\Utilities\20210112_hodina\UtilitiesSol\UtilitiesDraw\obj\Debug\UtilitiesDraw.csprojAssemblyReference.cache
+Y:\3.rocnik\PGR\Utilities\20210112_hodina\UtilitiesSol\UtilitiesDraw\obj\Debug\UtilitiesDraw.CanvasForm.resources
+Y:\3.rocnik\PGR\Utilities\20210112_hodina\UtilitiesSol\UtilitiesDraw\obj\Debug\UtilitiesDraw.Properties.Resources.resources
+Y:\3.rocnik\PGR\Utilities\20210112_hodina\UtilitiesSol\UtilitiesDraw\obj\Debug\UtilitiesDraw.csproj.GenerateResource.cache
+Y:\3.rocnik\PGR\Utilities\20210112_hodina\UtilitiesSol\UtilitiesDraw\obj\Debug\UtilitiesDraw.exe
+Y:\3.rocnik\PGR\Utilities\20210112_hodina\UtilitiesSol\UtilitiesDraw\obj\Debug\UtilitiesDraw.pdb
